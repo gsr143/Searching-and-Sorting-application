@@ -1,6 +1,6 @@
 /*
 Inversion Count
-Send Feedback
+
 For a given integer array/list of size N, find the total number of 'Inversions' that may exist.
 An inversion is defined for a pair of integers in the array/list when the following two conditions are met.
 A pair (arr[i], arr[j]) is said to be an inversion when,
